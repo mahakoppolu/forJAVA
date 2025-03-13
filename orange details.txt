@@ -1,0 +1,4 @@
+ //class="loginText" --username textbox
+ <input name="txtPassword" ----password textbox
+ <input name="txtUserName"-----username textbox
+ <input type="Submit" name="Submit" ----login btn
